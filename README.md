@@ -71,6 +71,12 @@ public void moveSandworm() {
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve this mod. Whether it’s fixing bugs, adding features, or improving animations, your help is appreciated.
 
+Website
+https://nathenwilliams600.wixsite.com/nategamedev
+LinkedIn
+[in/nathenwilliams](https://www.linkedin.com/in/nathenwilliams/)
+Artstation
+https://www.artstation.com/happilytwisted
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
